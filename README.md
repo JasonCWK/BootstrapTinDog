@@ -1,2 +1,1 @@
-# BootstrapTinDog
-Website built using Bootstrap
+TinDog Starting Files
